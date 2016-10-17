@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/chintu/Music/kirrrrrrraaaaannnnn.html",
+			"settings":
+			{
+				"buffer_size": 828,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "/C/Users/chintu/Music/freeform.html",
+			"settings":
+			{
+				"buffer_size": 2248,
+				"line_ending": "Windows",
+				"name": "<!DOCTYPE html>"
+			}
+		},
+		{
+			"file": "/C/Users/chintu/Music/3assignments.html",
+			"settings":
+			{
+				"buffer_size": 4142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!--main document type of the web page-->\n  	<!DOCTYPE html>\n 	<html>\n     	<!--head of the web page-->\n     	<head>\n         	<!--title - this is the title of this html file-->\n         	<title>Employee Form</title>\n         	<!--style - this is used to write CSS style on the html file itself-->\n         	<style>\n             	body{\n                 	background-color: grey;\n             	}\n         	</style>\n         	<!--script - this is used to write javascript on the html file itself-->\n         	<script>\n \n         	</script>\n         	<!--link - this is used to link an external source-->\n         	<!--this is used to source only css files and images-->\n         	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\"/>\n \n         	<!--base - this used to specify the base URL of our web page-->\n         	<!--this is optional and to be written based on server configuration-->\n         	<base href=\"/home\" />\n \n         	<!--meta - this is used to describe more meta information which are not covered by the above five-->\n         	<meta name=\"description\" content=\"This is the official website for applying an Employee Position in BankOfAmerica\"/>\n         	<meta name=\"keywords\" content=\"BankOfAmerica, Employee, Employee form, form, applicant\" />\n         	<meta charset=\"UTF-8\" />\n     	</head>\n \n     	<!--body of the web page-->\n     	<!--body is the rendering part of the html-->\n     	<body>\n \n         	<!--main article for forms-->\n         	<article>\n \n             	<!--page header-->\n             	<header>\n                 	<h1>Welcome to BankOfAmerica!</h1>\n            	</header>\n \n             		<!--main body of the page-->\n             		<section>\n                 		<!--form for Employee position-->\n                 		<form name=\"Employee Form\">\n                     		<!--First Name-->\n                    	 	<div>\n                         		<label for=\"firstName\">Applicant's First Name:</label>\n                         		<input type=\"text\" id=\"firstName\" name=\"fName\" placeholder=\"Enter your First Name\"/>\n                     		</div>\n                    		 <br />\n                     		<!--Last Name-->\n                     		<div>\n                         		<label for=\"lastName\">Applicant's Last Name:</label>\n                         		<input type=\"text\" id=\"lastName\" name=\"lName\" placeholder=\"Enter your Last Name\" />\n                     		</div>\n                     		<br />\n                     		<!--Phone Number-->\n                     		<div>\n                         		<label for=\"phoneNumber\">Applicant's Phone Number:</label>\n                         		<input type=\"text\" id=\"phoneNumber\" name=\"phoneNumber\" placeholder=\"Phone Number\" />\n                     		</div>\n                     		<br />\n                     		<!--Email Id-->\n                     		<div>\n                         		<label for=\"Email\">Enter Email-Id:</label>\n                         		<div id=\"Email\"></div>\n                            		<span> <input type=\"text\" id=\"Email\" name=\"Email\" Placeholder=\"Email Id\" /></span>\n                     		</div>\n                     		<br/> \n                     		<!--Password-->\n                     		<div>\n                     			<label for =\"Password\">Enter Password</label>\n                     			<div id=\"Password\">\n                     				<input type=\"Password\" id=\"Password\" name=\"Password\" placeholder=\"Password\" />\n                     		</div>\n                     		<br/>\n                     		<!--Gender-->\n                     		<div>\n                     		<div for=\"Gender\"</label>\n                     			<label for=\"Gender\">Male</label>\n              \n                     				<input type=\"radio\" id =\"gender\" name=\"gender\" value=\"male\">\n                     		</div>\n                     	\n                     		<!--Gender-->\n                     		<div>\n                     			<label for=\"Gender\">Female</label>\n                     			\n                     				<input type=\"radio\" id=\"gender\" name=\"gender\" value=\"female\">\n                     		</div>\n                     		<!--checkbox-->\n                     		<div>\n                     			<label for=\"checkbox\">\n                     			<div id=\"checkbox\">\n                     				<input type=\"checkbox\" id=\"checkbox\">\n                     		</div>\n                     		<br/>\n                     		<!--submit button-->\n                     		<button type=\"submit\" id=\"submit\">\n                         		<span>Submit</span>\n                     		</button>\n                     		<!--reset/cancel-->\n                     		<button type=\"reset\" id=\"reset\">\n                         		<span>Cancel</span>\n                     		</button>\n                 		</form>\n\n             		</section>\n \n             	<!--footer of the page-->\n             	<footer>\n                 	I'm at the bottom\n             	</footer>\n         	</article>\n     	</body>\n 	</html> ",
+			"file": "/C/Users/chintu/Music/duplicate.html",
+			"file_size": 5116,
+			"file_write_time": 131208771415435767,
+			"settings":
+			{
+				"buffer_size": 4966,
+				"line_ending": "Windows",
+				"name": "<!--main document type of the web page-->"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chintu/Music/3assignment.html",
+		"/C/Users/chintu/Desktop/cool/uiOct2016Class/10_09_2016/kiran.html",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.687/CS557Quiz4Comparator/routes/index.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.456/CS557Quiz4Comparator/routes/users.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.852/expense_app/angular.min.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.370/CS557Quiz4Comparator/public/javascripts/angular-route.min.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.798/CS557Quiz4Comparator/routes/index.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.238/CS557Quiz4Comparator/public/javascripts/angular.min.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.364/CS557Quiz4Comparator/routes/users.js",
+		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.448/CS557Quiz4Comparator/app.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/chintu/Music/kirrrrrrraaaaannnnn.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/chintu/Music/freeform.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1162,
+								1236
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE html>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/chintu/Music/3assignments.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2684,
+								2684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/chintu/Music/duplicate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3600,
+								3600
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!--main document type of the web page-->",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "kiran.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
