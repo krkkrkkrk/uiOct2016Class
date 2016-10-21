@@ -1,0 +1,13 @@
+
+
+
+
+///Svg and canvas:///what is difference b/n local storage and session storage/////
+r u worked on any css3.....sas padding property and margin property///////inline vs block elemts...
+...//////what do u think about object oriented javascript////what is closeer in javascript////// what is promises/////how many ways u can invoke in javascripts/////
+About  RESTIFULL  APIS////..HOW DO U CALL MULTIPLE  ASYNCHRONOUS METHOD IN SYNCHRONOUS METHOD WITHOUT USING /////ANT TEST 
+
+///HOW DO U ADD A N ARRAY BEFORE AND END OF THE JS..
+//KEYFEATURES AVALIABLE IN ANGULAR JS....////
+WHAT IS SCOPE IN ANGULAR JS///WHAT IS LINKING FUNCTION IN ANGULAS JS///
+///IN CURRENT PROJECT HOW MANY MEMBERS ARE WORKING .....WHAT IS YOUR ROLE/////...

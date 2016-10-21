@@ -1,0 +1,71 @@
+
+form[name="IT SOLUTIONS"]
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+
+    
+    border: 2px solid #000;
+    background:blue;
+    display: block;
+    width:250px;
+}
+
+/*input[data-srikar="viswa"]
+{
+    border: 2px dotted #00FF00;
+    display: block;
+}*/
+h1
+{
+    text-align: center;
+}
+
+div{
+    margin: 10px;
+    padding: 20px;    
+    display:block;
+}
+ul{ 
+ list-style-type: none;
+}
+ li{
+    display:inline-block;
+    margin:0px 10px;
+ }
+
+label{
+    
+    display:inline-block;
+    border-radius:5px;
+}
+
+/*#reset{
+    color: #ff0000;
+}*/
+
+button[type="reset"],[type="submit"]
+{
+   background-color: #5ca941;
+    border-color:#5ca941;
+    margin:5px;
+    padding:5px 5px;
+}
+
+/*#firstName, #lastName{
+    background: #00ff00;
+    border: 1px solid #ff0000;
+}*/
+
+
+input[name="lName"]
+{
+    border-radius-right:10px;
+}
+h4{
+    text-align:center;
+}
+.container{
+    background: #0000ff;
+}

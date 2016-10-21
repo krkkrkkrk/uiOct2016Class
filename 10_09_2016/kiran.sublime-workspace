@@ -30,23 +30,30 @@
 			}
 		},
 		{
-			"file": "/C/Users/chintu/Music/3assignments.html",
+			"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/styles/helloo.css",
 			"settings":
 			{
-				"buffer_size": 4142,
+				"buffer_size": 573,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<!--main document type of the web page-->\n  	<!DOCTYPE html>\n 	<html>\n     	<!--head of the web page-->\n     	<head>\n         	<!--title - this is the title of this html file-->\n         	<title>Employee Form</title>\n         	<!--style - this is used to write CSS style on the html file itself-->\n         	<style>\n             	body{\n                 	background-color: grey;\n             	}\n         	</style>\n         	<!--script - this is used to write javascript on the html file itself-->\n         	<script>\n \n         	</script>\n         	<!--link - this is used to link an external source-->\n         	<!--this is used to source only css files and images-->\n         	<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\"/>\n \n         	<!--base - this used to specify the base URL of our web page-->\n         	<!--this is optional and to be written based on server configuration-->\n         	<base href=\"/home\" />\n \n         	<!--meta - this is used to describe more meta information which are not covered by the above five-->\n         	<meta name=\"description\" content=\"This is the official website for applying an Employee Position in BankOfAmerica\"/>\n         	<meta name=\"keywords\" content=\"BankOfAmerica, Employee, Employee form, form, applicant\" />\n         	<meta charset=\"UTF-8\" />\n     	</head>\n \n     	<!--body of the web page-->\n     	<!--body is the rendering part of the html-->\n     	<body>\n \n         	<!--main article for forms-->\n         	<article>\n \n             	<!--page header-->\n             	<header>\n                 	<h1>Welcome to BankOfAmerica!</h1>\n            	</header>\n \n             		<!--main body of the page-->\n             		<section>\n                 		<!--form for Employee position-->\n                 		<form name=\"Employee Form\">\n                     		<!--First Name-->\n                    	 	<div>\n                         		<label for=\"firstName\">Applicant's First Name:</label>\n                         		<input type=\"text\" id=\"firstName\" name=\"fName\" placeholder=\"Enter your First Name\"/>\n                     		</div>\n                    		 <br />\n                     		<!--Last Name-->\n                     		<div>\n                         		<label for=\"lastName\">Applicant's Last Name:</label>\n                         		<input type=\"text\" id=\"lastName\" name=\"lName\" placeholder=\"Enter your Last Name\" />\n                     		</div>\n                     		<br />\n                     		<!--Phone Number-->\n                     		<div>\n                         		<label for=\"phoneNumber\">Applicant's Phone Number:</label>\n                         		<input type=\"text\" id=\"phoneNumber\" name=\"phoneNumber\" placeholder=\"Phone Number\" />\n                     		</div>\n                     		<br />\n                     		<!--Email Id-->\n                     		<div>\n                         		<label for=\"Email\">Enter Email-Id:</label>\n                         		<div id=\"Email\"></div>\n                            		<span> <input type=\"text\" id=\"Email\" name=\"Email\" Placeholder=\"Email Id\" /></span>\n                     		</div>\n                     		<br/> \n                     		<!--Password-->\n                     		<div>\n                     			<label for =\"Password\">Enter Password</label>\n                     			<div id=\"Password\">\n                     				<input type=\"Password\" id=\"Password\" name=\"Password\" placeholder=\"Password\" />\n                     		</div>\n                     		<br/>\n                     		<!--Gender-->\n                     		<div>\n                     		<div for=\"Gender\"</label>\n                     			<label for=\"Gender\">Male</label>\n              \n                     				<input type=\"radio\" id =\"gender\" name=\"gender\" value=\"male\">\n                     		</div>\n                     	\n                     		<!--Gender-->\n                     		<div>\n                     			<label for=\"Gender\">Female</label>\n                     			\n                     				<input type=\"radio\" id=\"gender\" name=\"gender\" value=\"female\">\n                     		</div>\n                     		<!--checkbox-->\n                     		<div>\n                     			<label for=\"checkbox\">\n                     			<div id=\"checkbox\">\n                     				<input type=\"checkbox\" id=\"checkbox\">\n                     		</div>\n                     		<br/>\n                     		<!--submit button-->\n                     		<button type=\"submit\" id=\"submit\">\n                         		<span>Submit</span>\n                     		</button>\n                     		<!--reset/cancel-->\n                     		<button type=\"reset\" id=\"reset\">\n                         		<span>Cancel</span>\n                     		</button>\n                 		</form>\n\n             		</section>\n \n             	<!--footer of the page-->\n             	<footer>\n                 	I'm at the bottom\n             	</footer>\n         	</article>\n     	</body>\n 	</html> ",
-			"file": "/C/Users/chintu/Music/duplicate.html",
-			"file_size": 5116,
-			"file_write_time": 131208771415435767,
+			"contents": "<!--main doctype of the web page-->\n	<!DOCTYPE html>\n	<html lang =\"eng\">	\n		      					<!--  this is head of the html-->\n		<head>\n			  					<!--this is title of the page-->\n			  <title>my first html page</title>\n			  					<!-- this is link used for external -->\n			  					<!--this is used for css on the html page-->\n			  \n			  					<!--this is used for javascript on the html page -->\n			  <style >\n			  		body\n			  		    {\n                         background-color: red;\n			  		     }\n			  						\n			  </style>\n			  <script>\n			  			  \n			  </script>\n			 	<link rel=\"stylesheet\" href=\"C:\\Users\\chintu\\Desktop\\cool\\uiOct2016Class\\10_13_2016\\kiran\\styles\\helloo.css\"/>				 \n			  					 <!-- this is for css files and images-->\n			  	<link rel=\"stylesheet\" href=\"http://www.w3schools.com/lib/w3.css\"/>\n			  					 <!--base - this used to specify the base URL of our web page-->\n			  					 <!--this is optional and to be written based on server configuration-->\n         		<base href=\"/home\" />\n         		<meta name=\"viewport\" content=\"width=device-width\", initial-scale=1\">\n               \n         		<meta name=\"description\" content=\"This is the website to download apllication of Employee form of ITSOLUTIONS\"/>\n         		<meta name=\"keywords\" content=\"IT FORM,IT EMPLOYEE FORM,APLLICATION IT FORM,IT SOLUTIONS FORM,\"/>\n         		<meta charset=\"UTF-8\"/>\n    	</head>\n		<body>\n\n				<article>\n						<header>\n								<h1>IT SOLUTIONS</h1>\n						</header>\n						<section>\n\n				                <!--THIS IS THE BODY OF THE PAGE-->\n				                 <!--FORM STARTS HERE-->\n								<form name =\"IT SOLUTIONS\">\n				\n								<!-- divsion starts here-->\n								<!--FIRST NAME-->\n								<div>\n									<label for =\"first name\">Applicant first name:</label>\n									<input type=\"text\" id=\"firstname\" name=\"FIRSTName\" placeholder=\"Firstname\" >\n								</div></br>\n													<!--LAST NAME-->\n								<div>\n									<label for=\"lastname\">Applicant last name:</label>\n							  	 	<input type=\"text\" id=\"lastname\" name=\"LASTName\" placeholder=\"Lastname\">\n							  	 </div></br>\n							  	 					<!--PHONE NUMBER-->\n							  	 <div>\n							  	 	<label for=\"Phone number\">Applicant phone number:</label>\n							  	 	<input type=\"text\" id=\"Phonenumber\" name=\"Phonenumber\" placeholder=\" Enter phone number\">\n							  	 </div>\n							  	 	<br/>\n							  	 					<!--EMAIL ID-->\n							  	 <div>				\n							  	 	<label for=\"Email\">Enter Email-Id:</label>\n					                <div id=\"Email Id\"></div> \n					                <span> <input type=\"text\" id=\"Email Id\" name=\"Email-Id\" Placeholder=\"Email Id\" /></span>\n					             </div>\n					                <br/>\n					              <div>\n					              				    <!--PASSWORD-->\n					                <label for=\"password\">Password</label>\n					                <div id=\"password\"></div>\n						                <span><input type=\"text\" id =\"password\" name=\"password\" placeholder=\"Enter Password\"/></span>\n					             </div>\n					                \n					                				<!--GENDER-->\n					             <div>\n					                <label for=\"gender\">Gender</label>\n							  	 	<div id=\"gender\"></div>\n					                <label for=\"male\">male<label>\n					                <input type =radio id=\"gender\" name=\"gender\" value =\"male\"/><br>                 \n					                <label for=\"female\">female</label>\n					                <input type =radio id=\"gender\" name=\"gender\" value =\"female\"/>\n					             </div>\n					                <br>\n					                				<!--APPLIED BEFOR-->\n					             <div>\n					                  <label for=\"checkbox\">Applied before</label>\n					                \n					                  <input type=\"checkbox\" id=\"checkbox\"/>\n					             </div>\n					                <br>\n					                				<!--submit-->\n					             <div>\n					                <button type=\"submit\" id=\"submit\"/>\n					                		<span>SUBMIT</span>\n					                </button>\n					                <button type=\"reset\" id=\"reset\"/>                \n					                		<span>CANCEL</span>\n					                </button>\n					             </div>\n					                \n					             </form>\n\n            		 </section>\n            		 			<!-- footr-->\n            		 			<footer>\n            		 					 <h4> END OF THE FORM</h4>\n            		 			</footer>\n             </article>\n\n		</body>\n	</html>\n\n",
+			"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/templates/4assignment.html",
+			"file_size": 4494,
+			"file_write_time": 131210538457473071,
 			"settings":
 			{
-				"buffer_size": 4966,
-				"line_ending": "Windows",
-				"name": "<!--main document type of the web page-->"
+				"buffer_size": 4379,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/templates/sampl.html",
+			"settings":
+			{
+				"buffer_size": 261,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -82,6 +89,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/styles/styles.css",
+		"/C/Users/chintu/Music/duplicate.html",
 		"/C/Users/chintu/Music/3assignment.html",
 		"/C/Users/chintu/Desktop/cool/uiOct2016Class/10_09_2016/kiran.html",
 		"/C/Users/chintu/AppData/Local/Temp/Rar$DRa0.687/CS557Quiz4Comparator/routes/index.js",
@@ -95,7 +104,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -109,6 +118,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Id"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -126,7 +136,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -155,7 +165,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -181,27 +191,55 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 264.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/chintu/Music/3assignments.html",
+					"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/styles/helloo.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4142,
+						"buffer_size": 573,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2684,
-								2684
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/templates/4assignment.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								129
 							]
 						],
 						"settings":
@@ -209,41 +247,39 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 434.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/chintu/Music/duplicate.html",
+					"buffer": 4,
+					"file": "/C/Users/chintu/Desktop/cool/uiOct2016Class/10_13_2016/kiran/templates/sampl.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4966,
+						"buffer_size": 261,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3600,
-								3600
+								240,
+								240
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<!--main document type of the web page-->",
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 608.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -251,7 +287,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -288,7 +324,7 @@
 	"project": "kiran.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
